@@ -1,6 +1,7 @@
 # Safe-N-Sound
 
 Product name: Safe n' Sound
+
 Authors: Samarth Arora, Tushita Tandon, Ritwik Sinha, Palaksh Rungta
 
 The following project was made at SD Hacks 2019. We believe our product comes under the category "Health and Wellbeing".
